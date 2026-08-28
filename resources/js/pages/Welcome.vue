@@ -3,7 +3,7 @@ import { Head } from '@inertiajs/vue3';
 import { ref } from "vue";
 import AppearanceToggle from '@/components/AppearanceToggle.vue';
 
-const skills = ['User Experience Design (UED)', 'Kotlin', 'Figma'];
+const skills = ['User Experience Design (UED)', 'Kotlin', 'Figma', 'HTML', 'CSS', 'JavaScript', 'Vue.js', 'Laravel', 'Tailwind CSS', 'Git', 'UI/UX Research & Development'];
 
 const projects = [
     {
